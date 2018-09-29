@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-server" />
         <module name="server-hi" />
+        <module name="server-ribbon" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eureka-server" target="1.8" />
       <module name="SB_forEureka" target="1.8" />
       <module name="server-hi" target="1.8" />
+      <module name="server-ribbon" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

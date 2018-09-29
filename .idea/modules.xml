@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/SB_forEureka.iml" filepath="$PROJECT_DIR$/SB_forEureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/server-hi/server-hi.iml" filepath="$PROJECT_DIR$/server-hi/server-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-ribbon/server-ribbon.iml" filepath="$PROJECT_DIR$/server-ribbon/server-ribbon.iml" />
     </modules>
   </component>
 </project>
