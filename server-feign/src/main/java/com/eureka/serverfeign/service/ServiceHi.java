@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestParam;
  * @ Description：
  * @ throws
  */
-@FeignClient("server-hi")
+@FeignClient(value = "server-hi" ,fallback = ServiceHiHystric.class)
 public interface ServiceHi {
 
     @RequestMapping("/hi")
