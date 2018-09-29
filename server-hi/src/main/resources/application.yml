@@ -1,0 +1,10 @@
+server:
+  port: 8762
+
+spring:
+  application:
+    name: server-hi
+
+eureka:
+  client:
+    client-data-accept: http://localhost:8761/eureka/
