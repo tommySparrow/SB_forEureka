@@ -1,0 +1,12 @@
+server:
+  port: 8765
+
+#\u6CE8\u518C\u670D\u52A1\u7684\u540D\u79F0
+spring:
+  application:
+    name: server-feign
+
+#\u6CE8\u518C\u670D\u52A1\u7684\u5730\u5740
+eureka:
+  client:
+    client-data-accept: http://localhost:8761/eureka/
